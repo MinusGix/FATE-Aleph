@@ -1,0 +1,2 @@
+CompileFlags:
+  Add: [-Wall, -std=c17, --target=i686-pc-windows-gnu, -m32]
